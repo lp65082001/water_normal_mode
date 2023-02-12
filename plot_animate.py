@@ -4,7 +4,7 @@ import matplotlib.animation as animation
 from IPython.display import HTML
 
 # unit cm-1 #
-def frequence(eignval):
+def frequency(eignval):
     return (eignval/(5.892*1e-5))**0.5
 
 
